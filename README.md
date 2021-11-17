@@ -8,7 +8,7 @@ Integrantes Da Equipe
 # 👨‍💻 - Alex Lima De Freitas 404196 
 
 # Funcionalidades Do Projeto
-O projeto em se consistem em uma rede de Confeitarias, a onde teremos dois lados do app, o lado empresa que vai colocar os seus produtos, e o lado cliente que efetuar a compra de seus produtos.
+O projeto consistem em uma rede de Confeitarias, a onde teremos dois lados do app, o lado empresa que vai colocar os seus produtos, e o lado cliente que efetuar a compra de seus produtos.
 
 # Lado Do Usuario 🏡
 O Usuário poderá se cadastrar, e fazer pedidos, e ao finalizar a lista de pedidos, o pedido vai ser enviado pra a respectiva confeitaria como a localização do cliente. O cliente poderá escolher que tipo de pagamento usar 💵💵💵.
