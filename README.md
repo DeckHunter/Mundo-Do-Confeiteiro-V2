@@ -3,10 +3,6 @@
 # Detalhes Do Projeto 📄
 Eu decide faze-lo em Java, por já ter uma familiaridade melhor como a linguagem no assunto de desenvolvimento Android
 
-Integrantes Da Equipe
-
-# 👨‍💻 - Alex Lima De Freitas 404196 
-
 # Funcionalidades Do Projeto
 O projeto consistem em uma rede de Confeitarias, a onde teremos dois lados do app, o lado empresa que vai colocar os seus produtos, e o lado cliente que efetuar a compra de seus produtos.
 
